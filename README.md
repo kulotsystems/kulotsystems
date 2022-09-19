@@ -10,5 +10,5 @@ If you want to know more about me, visit my portfolio at:
 In case the portfolio link above does not work, you can access the following mirror sites:
 
 - [kulotsystems.vercel.app](https://kulotsystems.vercel.app)
-- [https://kulotsystems.netlify.app](https://kulotsystems.netlify.app)
-- [https://kulotsystems.github.io](https://kulotsystems.github.io)
+- [kulotsystems.netlify.app](https://kulotsystems.netlify.app)
+- [kulotsystems.github.io](https://kulotsystems.github.io)
