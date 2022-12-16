@@ -1,6 +1,16 @@
 ### Hi there 👋 I am Arvic.
 
-I am a Web Developer and my main [tech stack](https://heap.io/topics/what-is-a-tech-stack) has something to do with [VueJS](https://vuejs.org/) and [Laravel](https://laravel.com/). I'm also exploring the [web3](https://www.coindesk.com/learn/what-is-web-3-and-why-is-everyone-talking-about-it/) space by learning how to build [dApps](https://www.investopedia.com/terms/d/decentralized-applications-dapps.asp).
+I am a web developer with a strong understanding of front-end and back-end development,
+as well as database management and software design.
+I have experience with technologies such as
+[**React**](https://reactjs.org/),
+[**Vue**](https://vuejs.org/),
+and
+[**Laravel**](https://laravel.com/),
+but I am always looking to expand my skillset.
+
+In addition to my development work, I also have a passion for teaching others about technology.
+
 
 ### Portfolio
 If you want to know more about me, visit my portfolio at:
