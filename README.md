@@ -25,7 +25,6 @@ In case the portfolio link above does not work, you can access the following mir
 
 
 <div align="right">
-    <br/>
     <small>
         <a href="https://www.youtube.com/watch?v=ElJe5M54brI" target="_blank">#AlwaysBlue</a>
     </small>
