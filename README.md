@@ -14,7 +14,7 @@ In addition to my development work, I also have a passion for teaching others ab
 
 ### Portfolio
 If you want to know more about me, visit my portfolio at:
-- [**kulotsystems.tech/portfolio**](https://www.kulotsystems.tech/portfolio)
+- [**kulotsystems.tech/portfolio**](https://kulotsystems.tech/portfolio)
 
 ### Portfolio Mirrors
 In case the portfolio link above does not work, you can access the following mirror sites:
